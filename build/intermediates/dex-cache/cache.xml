@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/efaf0ace208d6296bb9fc3aa502cc9047581d26de9e4b636b0220aecb27fc55648d7ec1e.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="071b365ec736f36aed0047e12a5ca2d31ea5b447">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/efaf0ace208d6296bb9fc3aa502cc9047581d26de9e4b636b0220aecb27fc55648d7ec1e_d512e21bc5a22c46649bf4969f1f63ffe07e5cfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/b3a36022d766c561023d7078d439b55163b4f6d917369d1805c4857e42bafccefb44e9f1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="244d12b4993b9be2c8a3c3e2af4b721e3a9007a9">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/b3a36022d766c561023d7078d439b55163b4f6d917369d1805c4857e42bafccefb44e9f1_c00fc5ae1b7012a5685b313db4aff1ad84c57cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/75e2d7c6d457c3319caa049673e0fa5f28b873cd10e27b8c02bf9371b7962a8db3ba975c.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e8a211aea1792072a38170f0474779987c19d7e5">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/75e2d7c6d457c3319caa049673e0fa5f28b873cd10e27b8c02bf9371b7962a8db3ba975c_e9c7a77c647baf976a28af53ac1bc0cf85258c23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/eb970cb4289a8b5529f7823194001a0559dc71f92cd15add3381211be2694cf412c88054.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1655140bc9e2ea4105280d73ca7e847a20d25d53">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/eb970cb4289a8b5529f7823194001a0559dc71f92cd15add3381211be2694cf412c88054_6a28aab91d26bc5a6ba8284c805abf34fcbb6802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/3d8c0cb6b87e00bb73f163d32cb81024535ac29fd980885edd98a51c6ca1df062b114b91.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ccac354a2f9cd014ba03c6d3aa0d884f9cdc0982">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/3d8c0cb6b87e00bb73f163d32cb81024535ac29fd980885edd98a51c6ca1df062b114b91_df2e3c62396966c5261bb59e4d12b03154beeb30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/ea1b33c6582691b61c622f7f3103ea5e99ff8d98498a0d20c8f91255ac556ef353a86893.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38c11280829c1180e7474bd8780024bc26304b78">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/ea1b33c6582691b61c622f7f3103ea5e99ff8d98498a0d20c8f91255ac556ef353a86893_515779e27359f463c98ed448e744b490cf0512ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/8473ea08025d905038a6260f50349c2a7d76baf5eedb979e07e1bf67fb206bb8076830b7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3047dc4d665d281cd606e36d9ccbe70918eb147">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/8473ea08025d905038a6260f50349c2a7d76baf5eedb979e07e1bf67fb206bb8076830b7_86a7e837743298e6f24192baae21aff45bfc0d92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/72f5c1cceede3af9d8561aace494c695939219c7e900cb6cc3f75ec133913faf9148f834.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9870cb35609a05659806954bd006d0cb3fbda983">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/72f5c1cceede3af9d8561aace494c695939219c7e900cb6cc3f75ec133913faf9148f834_dba37dc5b8e1c3a76368165f1ad086201e35f400.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/7240b91d198d94bf3ac7b1079f9d5c7a84e933fae52eb2ffe05c532d5e6f01a29e3de76e.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="acb1ae5af23fe7d4ab27163c8141a2fcae379d02">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/7240b91d198d94bf3ac7b1079f9d5c7a84e933fae52eb2ffe05c532d5e6f01a29e3de76e_21b38f4f84ba0dc887d3de65d1b55253f8a95bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/a63da6a17c939eeadbe86c578d3da13e35b54a96a1d06305bb089450c3127b6f417bbaa2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="362253495e856402b21a8a2a37400b60506e7960">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/a63da6a17c939eeadbe86c578d3da13e35b54a96a1d06305bb089450c3127b6f417bbaa2_193000e0b8351afc3f108bb237670f1b25a79b11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/a02a299a409a63a275bca3ef33533d051603db9d5290d28edd3438e08aa9dc046818af27.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20e09e05be689e3ee368ce40032f38caaae9a716">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/a02a299a409a63a275bca3ef33533d051603db9d5290d28edd3438e08aa9dc046818af27_3ee07042c6d37d30e6f0dfdad90d1377cbbc710c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/f5919ce245ef1d4eb2cf6d0a3dd3bf9aa589a83b9722a9b93699634def9029322e17e468.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8440fde6d5b4950fcde67118fe26ee605da74e42">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/f5919ce245ef1d4eb2cf6d0a3dd3bf9aa589a83b9722a9b93699634def9029322e17e468_8662eb82d687f7ec2f6bcb254199f346154c0ea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/2c239690164cd0cacefc7b4cd204d7e7848bc1de5a8e1229434cf61ea1ee658c2c037ccf.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b60ba806f839128b38b29b506b6db71b7d7fce53">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/2c239690164cd0cacefc7b4cd204d7e7848bc1de5a8e1229434cf61ea1ee658c2c037ccf_03ab28a37a679a811714eb78b06d8be598890a0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/4/b2c5c7292e29a15203854e65e8548723b4146265632f0b0a72e48f6de9ca98edb29a9de8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9c4a31de450fb56c81982c1f97410a373a7802b5">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/b2c5c7292e29a15203854e65e8548723b4146265632f0b0a72e48f6de9ca98edb29a9de8_d429d75e3c619bbbed0ec5dca0cbd02db69b2163.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/a92e73a67a060028be3e0dd8333084d463342bd84296280e6f6250f651de2be6539d369b.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="11480b2b180e9b72aaed7d9c0ee61f5f48dce45c">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/a92e73a67a060028be3e0dd8333084d463342bd84296280e6f6250f651de2be6539d369b_26b6cc1a73b4c2e81f902e05705035f64586ea86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/f20eda697d431e153a54952a141ec8cd82be8806984e228833e72de6e64548a738169662.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b91d8d7ce40d3304079f1a8ae3ae85762cacf8a4">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/f20eda697d431e153a54952a141ec8cd82be8806984e228833e72de6e64548a738169662_e1dd722b0d60c8c2b6abce8f5445536b17316fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/bf5b2c8038f31d9f55986f7dc3a6e93dd74d7be92cea0c9b894108fbd8685f48903e9392.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7d3e0c581338240c756556c4ba28e86e553939f">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/bf5b2c8038f31d9f55986f7dc3a6e93dd74d7be92cea0c9b894108fbd8685f48903e9392_28c530bac1bbe0eae88e1a4e2ccac254e289714c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/01ecd1275b74999a4438268fe12ff527e9131cd81529cd57232b3b3be32f382478cb595d.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a5625bcbfc91d27ec4900ed84c6391e8ae04299">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/01ecd1275b74999a4438268fe12ff527e9131cd81529cd57232b3b3be32f382478cb595d_5f31044570f08a684c79715fb40a8cc8444ee17c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/27bd2f01f5a39ea5e37cf36e6ed4f1f62764843104c203d98ab35f1a9e82e69a0e837082.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a359fa7864863ed5e90477e729f7aef049af4517">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/27bd2f01f5a39ea5e37cf36e6ed4f1f62764843104c203d98ab35f1a9e82e69a0e837082_e27fb3c3bee5ff28ca1cce9ec68917a5e61b0ba8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/01076bc0362225205ce2c7c2fd5a675f6fdbab328168b538bf5511f276a50b3829be40ed.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18e9406f48db5aaea7052c70449f032c41fd2170">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/01076bc0362225205ce2c7c2fd5a675f6fdbab328168b538bf5511f276a50b3829be40ed_3806704e52cd8c9fb69f24ca01a8f0b5268391e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/a16060d3af502cf2029c5544eae1db17a7af3b25d682e432761b0afdceafbb13d5008741.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5e566114bdec8d19a3c5aeb45347e2043e6abf0">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/a16060d3af502cf2029c5544eae1db17a7af3b25d682e432761b0afdceafbb13d5008741_eda43d03d59af4dafc2b9bf72bfeab4c236f76ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/transforms/Redson/debug/jars/1/10/20020b511d493868f789e12aceb1dfba7062912a9be6ff2182f6c890c0d63db3e8075b26.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b3f493f0c35f940887f61e74a3cc4adbdb35a153">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/Redson/app/build/intermediates/pre-dexed/debug/20020b511d493868f789e12aceb1dfba7062912a9be6ff2182f6c890c0d63db3e8075b26_2514411f568400beb259a7e03adff259af52a197.jar" />
+    </item>
+
+</items>
